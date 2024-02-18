@@ -16,3 +16,4 @@ def get_title():
 get_upper()
 get_title()
 
+#сделали красиво, исправили баги
